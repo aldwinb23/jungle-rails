@@ -29,3 +29,17 @@ More information in their docs: <https://stripe.com/docs/testing#cards>
 - Bootstrap 5
 - PostgreSQL 9.x
 - Stripe
+
+## Screenshots
+
+#### Homepage
+!["homepage"](docs/homepage.jpeg)
+
+#### Out of Stock
+!["out of stock"](docs/sold-out.jpeg)
+
+#### Admin
+!["admin"](docs/admin-products.jpeg)
+
+#### Carts
+!["carts"](docs/cart.jpeg)
